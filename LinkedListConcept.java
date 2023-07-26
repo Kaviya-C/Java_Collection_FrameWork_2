@@ -69,32 +69,6 @@ public class LinkedListConcept
 		 * linkedlist can be used as stack .it has methods pop() push()
 		 */
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	}
 
 }
