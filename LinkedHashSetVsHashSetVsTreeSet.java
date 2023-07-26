@@ -58,10 +58,7 @@ public class LinkedHashSetVsHashSetVsTreeSet
 		 *   implements cloneable and serializable
 		 *   all three are fail-fast in nature
 		 *   after iterator any modification done mean 
-		 *   we got concurrent modification exception
-		 * 
-		 * 
-		 * 
+		 *   we got concurrent modification exception 
 		 * 
 		 * 
 		 */
