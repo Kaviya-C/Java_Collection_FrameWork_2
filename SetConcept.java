@@ -49,32 +49,12 @@ public class SetConcept
 		Set<String> s=Collections.synchronizedSet(set1);
 		System.out.println(s);
 		
-		
 		/*
 		 * HashSet<>-----new HashMap<>
 		 * add() HashSet---- HashMap --- new Hashmap.put(element,PRESENT)
 		 * remove()  Hashset--- HashMap remove(element)==PRESENT
 		 * 
 		 */
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 	}
 
