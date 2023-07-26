@@ -18,9 +18,6 @@ public class HashMapConcept
 		 * constant time performance for the operations like get() and put()
 		 * initial capacity 16
 		 * 
-		 * 
-		 * 
-		 * 
 		 */
 		HashMap<String,Integer> map=new HashMap<String,Integer>();
         map.put("Jagan", 89);
@@ -92,18 +89,7 @@ public class HashMapConcept
 	 * one null key multiple null values allowed 
 	 * 
 	 */
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	}
 
 }
